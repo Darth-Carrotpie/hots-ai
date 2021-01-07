@@ -7,7 +7,10 @@ RUN apt-get install -y libgl1-mesa-glx
 RUN apt-get install -y libglib2.0-0
 
 RUN apt-get install -y apt-utils
+
 RUN apt-get install -y git
+RUN git config --global user.email "carrotpie@gmail.com"
+RUN git config --global user.name "Danielius"
 
 WORKDIR /code
 
