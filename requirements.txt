@@ -1,0 +1,9 @@
+notebook
+fastai==0.7.0
+scikit-learn==0.21.3
+torch==0.3.1
+torchvision==0.1.9
+torchtext==0.2.3
+xgboost==1.2.1
+shap
+lightgbm
