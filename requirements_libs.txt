@@ -2,3 +2,5 @@
 #
 treeinterpreter
 waterfallcharts
+tqdm
+ipywidgets
